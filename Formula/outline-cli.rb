@@ -1,8 +1,8 @@
 class OutlineCli < Formula
   desc "Command-line client for the Outline knowledge base"
   homepage "https://github.com/yudhiesh-oc/outline-cli"
-  url "https://github.com/yudhiesh-oc/outline-cli/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "2bee64688abae80b9f7f65e53238667f5e1b6377d2c961bc44b6a30151889cfe"
+  url "https://github.com/yudhiesh-oc/outline-cli/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "c4d46afadfc703d43c040aab41e704b0342e5e90dfbd9601e2d285d9d3e2165c"
   license "MIT"
   depends_on "go" => :build
 
